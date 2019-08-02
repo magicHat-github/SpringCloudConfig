@@ -1,0 +1,2 @@
+# SpringCloudConfig
+这是SpringCloud Config的服务配置中心地址
